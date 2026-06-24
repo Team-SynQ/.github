@@ -44,7 +44,7 @@ SynQ는 회의 중 발생하는 이해 차이를 줄이고,
 |---|---|
 | [도비 / 김도현](https://github.com/rlaehgus4418) | Web Lead |
 | [찰깐 / 이태건](https://github.com/chobiggun) | Web |
-| [곽철웅 / 곽영찬](https://github.com/asked1015) | Web |
+| [곽철용 / 곽영찬](https://github.com/asked1015) | Web |
 
 <br />
 
