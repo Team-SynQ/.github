@@ -43,8 +43,8 @@ SynQ는 회의 중 발생하는 이해 차이를 줄이고,
 | Nickname / Name | Role |
 |---|---|
 | [도비 / 김도현](https://github.com/rlaehgus4418) | Web Lead |
-| [칠판 / 이태건](https://github.com/chobiggun) | Web |
-| [곽철용 / 곽영찬](https://github.com/asked1015) | Web |
+| [칠판 / 이태건](https://github.com/taegeon2) | Web |
+| [곽철용 / 곽영찬](https://github.com/YounchanHa) | Web |
 
 <br />
 
@@ -53,7 +53,7 @@ SynQ는 회의 중 발생하는 이해 차이를 줄이고,
 | Nickname / Name | Role |
 |---|---|
 | [제이스 / 인석진](https://github.com/sjinssun) | Server Lead |
-| [도미닉 / 이민규](https://github.com/immigrationgue) | Server |
+| [도미닉 / 이민규](https://github.com/MinGyuLee2) | Server |
 | [데이 / 한다경](https://github.com/handagyeong) | Server |
 | [요한 / 문서찬](https://github.com/dev-moonsc) | Server |
 | [조자 / 이중희](https://github.com/jungee123213) | Server |
