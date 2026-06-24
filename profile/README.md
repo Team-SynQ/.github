@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/synq-main.png" alt="SynQ 서비스 소개 이미지" width="100%" />
+  <img src="./Frame.png" alt="SynQ 서비스 소개 이미지" width="100%" />
 </p>
 
 # SynQ
